@@ -1,0 +1,22 @@
+body {
+    background-image: url(../Img/fondoPantalla.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; /*para dar tamaño celular*/
+}
+
+.carta {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 2px;
+    margin: 2px;
+}
+
+.cuerpo {
+    background-color: rgb(122, 122, 122);
+}
+
+img {
+    width: 300px;
+    height: 210px;
+}

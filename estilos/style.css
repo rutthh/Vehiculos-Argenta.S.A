@@ -1,0 +1,22 @@
+body {
+    background-image: url(../Img/fondoPantalla.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; /*para dar tamaño celular*/
+}
+.formulario {
+    background: rgba(0,0,0,0.2);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.6);
+    color: white;
+
+}
+.ingresar {
+    background-color: rgb(144, 163, 179);
+    padding: 10px;
+    font-size: 20px;
+    justify-content: center;
+    font-weight: 700!important;
+
+}
