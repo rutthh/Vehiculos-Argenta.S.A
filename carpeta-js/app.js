@@ -48,14 +48,14 @@ let auto6 = new Autos('4', '3', 'mediana', 'Fiesta', 'Ford', 2300000);
 
 let auto7 = new altaGama('4', '5', 'grande', 'S', 'Tesla', 98000000, 'un', 4, 75000);
 
-/* console.log(auto1.mostrarInfo())
+console.log(auto1.mostrarInfo())
 console.log(auto2.mostrarInfo()) 
 console.log(auto3.mostrarInfo()) 
 console.log(auto4.mostrarInfo()) 
 console.log(auto5.mostrarInfo()) 
 console.log(auto6.mostrarInfo())
 
-console.log(auto7.mostrarInfo()) */ 
+console.log(auto7.mostrarInfo())
 
 var estadoMotor = "apagado";
 var motor = document.getElementById("motor");
